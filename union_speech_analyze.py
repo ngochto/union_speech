@@ -1,4 +1,3 @@
-#hw7.py
 #11/26/19
 #ClaireTo
 
