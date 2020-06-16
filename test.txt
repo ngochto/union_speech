@@ -1,0 +1,5 @@
+this is
+a small example
+of a text data
+file it has
+five lines
